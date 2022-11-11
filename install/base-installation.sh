@@ -57,7 +57,7 @@ fi
 mount $rootpartition /mnt
 swapon $swappartition
 
-cp -r ../Linux-Chad /mnt
+cp -r ../install /mnt
 
 pacstrap /mnt base base-devel linux linux-firmware sudo nano ntfs-3g networkmanager
 genfstab -U /mnt >> /mnt/etc/fstab

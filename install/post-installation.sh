@@ -70,6 +70,6 @@ systemctl enable bluetooth
 
 # Moving the Environment Setup to Home Directory
 cp ./env-setup.sh /home/$username/env-setup.sh
-rm -rf ../Linux-Chad
+rm -rf ../install
 
 
