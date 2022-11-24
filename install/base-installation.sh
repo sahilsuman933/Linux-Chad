@@ -50,12 +50,13 @@ if [[ $answer = y ]] ; then
     echo "Enter Swap Partition Location (eg. /dev/sda4 or /dev/nvme0n1p6 or something similar): "
     read swappartition
     mkswap $swappartition
+    swapon $swappartition
 fi
 
 # Mount
 
 mount $rootpartition /mnt
-swapon $swappartition
+
 
 cp -r ../install /mnt
 

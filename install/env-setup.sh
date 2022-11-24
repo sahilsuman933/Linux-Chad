@@ -6,28 +6,38 @@
 
 cd $HOME
 
+
+# Yay Packages
+
+git clone --depth=1 https://github.com/sahilsuman933/dwm.git ~/.local/src/dwm
+git clone --depth=1 https://github.com/sahilsuman933/st.git ~/.local/src/st
+git clone --depth=1 https://github.com/sahilsuman933/dwm.git ~/.local/src/dmenu
+git clone --depth=1 https://github.com/sahilsuman933/pinentry-dmenu.git ~/.local/src/pinentry-dmenu
+git clone --depth=1 https://github.com/sahilsuman933/dwmblocks.git ~/.local/src/dwmblocks
+
+# install
+sudo make -C ~/.local/src/dwm install
+sudo make -C ~/.local/src/st install
+sudo make -C ~/.local/src/dmenu install
+sudo make -C ~/.local/src/pinentry-dmenu clean install
+sudo make -C ~/.local/src/dwmblocks install
+
+
+
 # Yay: AUR Repository
-pacman -S --needed git base-devel
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 
-# Yay Packages
 
-# xorg server
-yay -S xorg
+yay -S libxft-bgra-git yt-dlp-drop-in
+mkdir dl dox imp music pix pub code
 
-# wallpaper and compositor and yt-dlp
-yay -S picom nitrogen yt-dlp-drop-in
-
-# dwm, dmenu, st terminal and slock lock
-yay -S dwm-git dmenu st-git slock-git
-sudo cp /etc/X11/xinit/xinitrc ~/.xinitrc
-
-# nitrogen --restore &
-# picom &
-# exec dwm
-
-
-sudo nano ~/.xinitrc
-
+ln -s ~/.config/x11/xinitrc .xinitrc
+ln -s ~/.config/shell/profile .zprofile
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+mv ~/.oh-my-zsh ~/.config/zsh/oh-my-zsh
+rm ~/.zshrc ~/.zsh_history
+alias dots='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+dots config --local status.showUntrackedFiles no
+exit
