@@ -1,0 +1,5 @@
+2023/07/09-20:34:05.514 82b Reusing MANIFEST /home/sahilsuman/.local/share/qutebrowser/webengine/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/09-20:34:57.117 881 Level-0 table #5: started
+2023/07/09-20:34:57.122 881 Level-0 table #5: 1482 bytes OK
+2023/07/09-20:34:57.126 881 Delete type=0 #3
+2023/07/09-20:34:57.126 881 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

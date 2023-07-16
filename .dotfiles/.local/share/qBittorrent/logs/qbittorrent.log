@@ -1,0 +1,202 @@
+(N) 2023-07-10T01:50:37 - qBittorrent v4.5.4 started
+(N) 2023-07-10T01:50:37 - Using config directory: /home/sahilsuman/.config/qBittorrent
+(N) 2023-07-10T01:50:39 - Trying to listen on the following list of IP addresses: "0.0.0.0:1510,[::]:1510"
+(I) 2023-07-10T01:50:39 - Peer ID: "-qB4540-"
+(I) 2023-07-10T01:50:39 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-07-10T01:50:39 - Distributed Hash Table (DHT) support: ON
+(I) 2023-07-10T01:50:39 - Local Peer Discovery support: ON
+(I) 2023-07-10T01:50:39 - Peer Exchange (PeX) support: ON
+(I) 2023-07-10T01:50:39 - Anonymous mode: OFF
+(I) 2023-07-10T01:50:39 - Encryption support: ON
+(I) 2023-07-10T01:50:39 - UPnP/NAT-PMP support: ON
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "192.168.1.204". Port: "TCP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "192.168.1.204". Port: "UTP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "::1". Port: "TCP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "::1". Port: "UTP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "fdbc:e246:c3c2::47e". Port: "TCP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "fdbc:e246:c3c2::47e". Port: "UTP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "fdbc:e246:c3c2:0:f4ed:76d8:6ed2:2cc4". Port: "TCP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "fdbc:e246:c3c2:0:f4ed:76d8:6ed2:2cc4". Port: "UTP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "fe80::6e43:eedc:4550:1fcc%wlp3s0". Port: "TCP/1510"
+(I) 2023-07-10T01:50:39 - Successfully listening on IP. IP: "fe80::6e43:eedc:4550:1fcc%wlp3s0". Port: "UTP/1510"
+(W) 2023-07-10T01:50:39 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2023-07-10T01:50:39 - Using built-in Web UI.
+(N) 2023-07-10T01:50:39 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2023-07-10T01:50:39 - Web UI: Now listening on IP: *, port: 8080
+(I) 2023-07-10T01:50:40 - Detected external IP. IP: "115.244.41.200"
+(I) 2023-07-10T01:50:40 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jul 1 13:37:53 2023.
+(I) 2023-07-10T01:50:40 - Successfully updated IP geolocation database.
+(N) 2023-07-10T01:50:44 - qBittorrent termination initiated
+(I) 2023-07-10T01:50:44 - UPnP/NAT-PMP support: OFF
+(N) 2023-07-10T01:50:44 - qBittorrent is now ready to exit
+(N) 2023-07-10T01:53:11 - qBittorrent v4.5.4 started
+(N) 2023-07-10T01:53:11 - Using config directory: /home/sahilsuman/.config/qBittorrent
+(N) 2023-07-10T01:53:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:1510,[::]:1510"
+(I) 2023-07-10T01:53:11 - Peer ID: "-qB4540-"
+(I) 2023-07-10T01:53:11 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-07-10T01:53:11 - Distributed Hash Table (DHT) support: ON
+(I) 2023-07-10T01:53:11 - Local Peer Discovery support: ON
+(I) 2023-07-10T01:53:11 - Peer Exchange (PeX) support: ON
+(I) 2023-07-10T01:53:11 - Anonymous mode: OFF
+(I) 2023-07-10T01:53:11 - Encryption support: ON
+(I) 2023-07-10T01:53:11 - UPnP/NAT-PMP support: ON
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "192.168.1.204". Port: "TCP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "192.168.1.204". Port: "UTP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "::1". Port: "TCP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "::1". Port: "UTP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "fdbc:e246:c3c2::47e". Port: "TCP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "fdbc:e246:c3c2::47e". Port: "UTP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "fdbc:e246:c3c2:0:f4ed:76d8:6ed2:2cc4". Port: "TCP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "fdbc:e246:c3c2:0:f4ed:76d8:6ed2:2cc4". Port: "UTP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "fe80::6e43:eedc:4550:1fcc%wlp3s0". Port: "TCP/1510"
+(I) 2023-07-10T01:53:11 - Successfully listening on IP. IP: "fe80::6e43:eedc:4550:1fcc%wlp3s0". Port: "UTP/1510"
+(I) 2023-07-10T01:53:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jul 1 13:37:53 2023.
+(I) 2023-07-10T01:53:12 - Detected external IP. IP: "115.244.41.200"
+(N) 2023-07-10T01:53:28 - Added new torrent. Torrent: "No.Hard.Feelings.2023.V1.1080p.YG"
+(W) 2023-07-10T01:55:47 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(W) 2023-07-10T01:55:47 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(N) 2023-07-10T02:02:13 - Torrent download finished. Torrent: "No.Hard.Feelings.2023.V1.1080p.YG"
+(N) 2023-07-10T02:07:47 - Removed torrent. Torrent: "No.Hard.Feelings.2023.V1.1080p.YG"
+(N) 2023-07-10T02:07:47 - qBittorrent termination initiated
+(I) 2023-07-10T02:07:47 - UPnP/NAT-PMP support: OFF
+(N) 2023-07-10T02:07:52 - qBittorrent is now ready to exit
+(N) 2023-07-11T17:51:02 - qBittorrent v4.5.4 started
+(N) 2023-07-11T17:51:02 - Using config directory: /home/sahilsuman/.config/qBittorrent
+(N) 2023-07-11T17:51:02 - Trying to listen on the following list of IP addresses: "0.0.0.0:1510,[::]:1510"
+(I) 2023-07-11T17:51:02 - Peer ID: "-qB4540-"
+(I) 2023-07-11T17:51:02 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-07-11T17:51:02 - Distributed Hash Table (DHT) support: ON
+(I) 2023-07-11T17:51:02 - Local Peer Discovery support: ON
+(I) 2023-07-11T17:51:02 - Peer Exchange (PeX) support: ON
+(I) 2023-07-11T17:51:02 - Anonymous mode: OFF
+(I) 2023-07-11T17:51:02 - Encryption support: ON
+(I) 2023-07-11T17:51:02 - UPnP/NAT-PMP support: ON
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "192.168.1.204". Port: "TCP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "192.168.1.204". Port: "UTP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "::1". Port: "TCP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "::1". Port: "UTP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "fdbc:e246:c3c2::47e". Port: "TCP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "fdbc:e246:c3c2::47e". Port: "UTP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "fdbc:e246:c3c2:0:f4ed:76d8:6ed2:2cc4". Port: "TCP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "fdbc:e246:c3c2:0:f4ed:76d8:6ed2:2cc4". Port: "UTP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "fe80::6e43:eedc:4550:1fcc%wlp3s0". Port: "TCP/1510"
+(I) 2023-07-11T17:51:02 - Successfully listening on IP. IP: "fe80::6e43:eedc:4550:1fcc%wlp3s0". Port: "UTP/1510"
+(I) 2023-07-11T17:51:02 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jul 1 13:37:53 2023.
+(I) 2023-07-11T17:51:04 - Detected external IP. IP: "115.244.41.200"
+(N) 2023-07-11T17:51:20 - Added new torrent. Torrent: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]"
+(W) 2023-07-11T17:51:24 - File error alert. Torrent: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]". File: "/home/sahilsuman/fun/web-series/anime/[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]/Extras/[Judas] Gintama - NCOP 21.mkv". Reason: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs] file_open (/home/sahilsuman/fun/web-series/anime/[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]/Extras/[Judas] Gintama - NCOP 21.mkv) error: Permission denied"
+(W) 2023-07-11T17:53:38 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(W) 2023-07-11T17:53:38 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(N) 2023-07-11T17:56:19 - Torrent paused. Torrent: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]"
+(N) 2023-07-11T17:56:21 - Torrent resumed. Torrent: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]"
+(N) 2023-07-11T17:59:26 - Torrent paused. Torrent: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]"
+(I) 2023-07-11T22:05:35 - Successfully listening on IP. IP: "192.168.1.248". Port: "TCP/1510"
+(I) 2023-07-11T22:05:35 - Successfully listening on IP. IP: "192.168.1.248". Port: "UTP/1510"
+(I) 2023-07-11T22:05:35 - Successfully listening on IP. IP: "fdbc:e246:c3c2::e2f". Port: "TCP/1510"
+(I) 2023-07-11T22:05:35 - Successfully listening on IP. IP: "fdbc:e246:c3c2::e2f". Port: "UTP/1510"
+(I) 2023-07-11T22:05:35 - Successfully listening on IP. IP: "fdbc:e246:c3c2:0:d1d3:3aa7:6b5:9abd". Port: "TCP/1510"
+(I) 2023-07-11T22:05:35 - Successfully listening on IP. IP: "fdbc:e246:c3c2:0:d1d3:3aa7:6b5:9abd". Port: "UTP/1510"
+(I) 2023-07-11T22:05:35 - Successfully listening on IP. IP: "fe80::7f7a:e6f9:7875:ad17%enp4s0". Port: "TCP/1510"
+(I) 2023-07-11T22:05:35 - Successfully listening on IP. IP: "fe80::7f7a:e6f9:7875:ad17%enp4s0". Port: "UTP/1510"
+(W) 2023-07-11T22:08:11 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.248]: no router found"
+(W) 2023-07-11T22:08:11 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.248]: no router found"
+(N) 2023-07-11T22:19:38 - qBittorrent termination initiated
+(I) 2023-07-11T22:19:38 - UPnP/NAT-PMP support: OFF
+(N) 2023-07-11T22:19:38 - qBittorrent is now ready to exit
+(N) 2023-07-14T13:58:00 - qBittorrent v4.5.4 started
+(N) 2023-07-14T13:58:00 - Using config directory: /home/sahilsuman/.config/qBittorrent
+(N) 2023-07-14T13:58:00 - Trying to listen on the following list of IP addresses: "0.0.0.0:1510,[::]:1510"
+(I) 2023-07-14T13:58:00 - Peer ID: "-qB4540-"
+(I) 2023-07-14T13:58:00 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-07-14T13:58:00 - Distributed Hash Table (DHT) support: ON
+(I) 2023-07-14T13:58:00 - Local Peer Discovery support: ON
+(I) 2023-07-14T13:58:00 - Peer Exchange (PeX) support: ON
+(I) 2023-07-14T13:58:00 - Anonymous mode: OFF
+(I) 2023-07-14T13:58:00 - Encryption support: ON
+(I) 2023-07-14T13:58:00 - UPnP/NAT-PMP support: ON
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "172.18.179.96". Port: "TCP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "172.18.179.96". Port: "UTP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "172.17.0.1". Port: "TCP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "172.17.0.1". Port: "UTP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "::1". Port: "TCP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "::1". Port: "UTP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "fe80::c7e1:5a7f:4ce8:d797%wlp3s0". Port: "TCP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "fe80::c7e1:5a7f:4ce8:d797%wlp3s0". Port: "UTP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "fe80::42:8fff:feae:beb8%docker0". Port: "TCP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "fe80::42:8fff:feae:beb8%docker0". Port: "UTP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "fe80::6047:46ff:fe4f:faa3%vethc832316". Port: "TCP/1510"
+(I) 2023-07-14T13:58:00 - Successfully listening on IP. IP: "fe80::6047:46ff:fe4f:faa3%vethc832316". Port: "UTP/1510"
+(N) 2023-07-14T13:58:00 - Restored torrent. Torrent: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]"
+(I) 2023-07-14T13:58:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jul 1 13:37:53 2023.
+(I) 2023-07-14T13:58:01 - Detected external IP. IP: "115.244.41.200"
+(N) 2023-07-14T13:58:04 - Torrent resumed. Torrent: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]"
+(W) 2023-07-14T14:00:36 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[172.18.179.96]: no router found"
+(W) 2023-07-14T14:00:36 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[172.18.179.96]: no router found"
+(I) 2023-07-14T15:30:37 - Successfully listening on IP. IP: "192.168.1.204". Port: "TCP/1510"
+(I) 2023-07-14T15:30:37 - Successfully listening on IP. IP: "192.168.1.204". Port: "UTP/1510"
+(I) 2023-07-14T15:31:19 - Detected external IP. IP: "115.244.41.200"
+(W) 2023-07-14T15:33:13 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(W) 2023-07-14T15:33:13 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(N) 2023-07-14T18:22:37 - Torrent download finished. Torrent: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]"
+(N) 2023-07-14T20:06:28 - Removed torrent. Torrent: "[Judas] Gintama 001-367 (Seasons 1-10) [BD 1080p][HEVC x265 10bit][Eng-Subs]"
+(N) 2023-07-14T20:42:30 - qBittorrent termination initiated
+(I) 2023-07-14T20:42:30 - UPnP/NAT-PMP support: OFF
+(N) 2023-07-14T20:42:30 - qBittorrent is now ready to exit
+(N) 2023-07-16T19:43:09 - qBittorrent v4.5.4 started
+(N) 2023-07-16T19:43:09 - Using config directory: /home/sahilsuman/.config/qBittorrent
+(N) 2023-07-16T19:43:09 - Trying to listen on the following list of IP addresses: "0.0.0.0:1510,[::]:1510"
+(I) 2023-07-16T19:43:09 - Peer ID: "-qB4540-"
+(I) 2023-07-16T19:43:09 - HTTP User-Agent: "qBittorrent/4.5.4"
+(I) 2023-07-16T19:43:09 - Distributed Hash Table (DHT) support: ON
+(I) 2023-07-16T19:43:09 - Local Peer Discovery support: ON
+(I) 2023-07-16T19:43:09 - Peer Exchange (PeX) support: ON
+(I) 2023-07-16T19:43:09 - Anonymous mode: OFF
+(I) 2023-07-16T19:43:09 - Encryption support: ON
+(I) 2023-07-16T19:43:09 - UPnP/NAT-PMP support: ON
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "192.168.1.204". Port: "TCP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "192.168.1.204". Port: "UTP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "172.17.0.1". Port: "TCP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "172.17.0.1". Port: "UTP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "::1". Port: "TCP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "::1". Port: "UTP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fd81:210c:b2be::47e". Port: "TCP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fd81:210c:b2be::47e". Port: "UTP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fd81:210c:b2be:0:35d8:936d:920a:976d". Port: "TCP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fd81:210c:b2be:0:35d8:936d:920a:976d". Port: "UTP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fe80::a1ec:8228:a49a:164a%wlp3s0". Port: "TCP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fe80::a1ec:8228:a49a:164a%wlp3s0". Port: "UTP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fe80::42:1ff:fe56:3a31%docker0". Port: "TCP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fe80::42:1ff:fe56:3a31%docker0". Port: "UTP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fe80::e82c:53ff:fe2e:76d9%veth6441738". Port: "TCP/1510"
+(I) 2023-07-16T19:43:09 - Successfully listening on IP. IP: "fe80::e82c:53ff:fe2e:76d9%veth6441738". Port: "UTP/1510"
+(I) 2023-07-16T19:43:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jul 1 13:37:53 2023.
+(I) 2023-07-16T19:43:10 - Detected external IP. IP: "115.244.41.200"
+(N) 2023-07-16T19:43:46 - Added new torrent. Torrent: "The.Voyeurs.2021.1080p.WEBRip.x265-RARBG"
+(W) 2023-07-16T19:45:45 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(W) 2023-07-16T19:45:45 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(N) 2023-07-16T19:56:40 - Torrent paused. Torrent: "The.Voyeurs.2021.1080p.WEBRip.x265-RARBG"
+(N) 2023-07-16T19:56:41 - Torrent resumed. Torrent: "The.Voyeurs.2021.1080p.WEBRip.x265-RARBG"
+(N) 2023-07-16T19:57:11 - Removed torrent and deleted its content. Torrent: "The.Voyeurs.2021.1080p.WEBRip.x265-RARBG"
+(N) 2023-07-16T19:57:15 - Added new torrent. Torrent: "The.Voyeurs.2021.1080p.WEBRip.x264-RARBG"
+(I) 2023-07-16T21:00:07 - Successfully listening on IP. IP: "172.18.179.96". Port: "TCP/1510"
+(I) 2023-07-16T21:00:07 - Successfully listening on IP. IP: "172.18.179.96". Port: "UTP/1510"
+(I) 2023-07-16T21:01:10 - Successfully listening on IP. IP: "192.168.1.204". Port: "TCP/1510"
+(I) 2023-07-16T21:01:10 - Successfully listening on IP. IP: "192.168.1.204". Port: "UTP/1510"
+(I) 2023-07-16T21:01:10 - Successfully listening on IP. IP: "fe80::a1ec:8228:a49a:164a%wlp3s0". Port: "TCP/1510"
+(I) 2023-07-16T21:01:10 - Successfully listening on IP. IP: "fe80::a1ec:8228:a49a:164a%wlp3s0". Port: "UTP/1510"
+(I) 2023-07-16T21:01:25 - Detected external IP. IP: "115.244.41.200"
+(W) 2023-07-16T21:03:46 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(W) 2023-07-16T21:03:46 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP[192.168.1.204]: no router found"
+(N) 2023-07-16T21:22:53 - qBittorrent termination initiated
+(I) 2023-07-16T21:22:53 - UPnP/NAT-PMP support: OFF
+(N) 2023-07-16T21:22:58 - qBittorrent is now ready to exit
