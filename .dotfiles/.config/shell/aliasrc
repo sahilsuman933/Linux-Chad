@@ -1,0 +1,7 @@
+alias dev='code ~/code/$(ls ~/code/ | fzf)'
+alias pa="anime_stream $1"
+alias i='paru --noconfirm -S'
+alias s="paru -Ssq"
+alias drmc="docker rm -f $(docker ps -aq)"
+alias drmi="docker image prune -a"
+alias dc="drmc | drmi"

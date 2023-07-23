@@ -1,0 +1,16 @@
+# My Hotkeys
+
+Print
+	maim -s | tee ~/pix/ss/$(date +%s).png | xclip -selection clipboard -t image/png
+super + Print 
+	maim | tee ~/pix/ss/$(date +%s).png | xclip -selection clipboard -t image/png
+
+XF86Audio{RaiseVolume,LowerVolume,Mute}
+	pamixer -{i,d,t} 2; kill -34 $(cat ~/.cache/pidofbar)
+
+XF86MonBrightness{Up,Down}
+	brightnessctl s {+2%,2%-}
+
+super + Escape
+	system_action
+
