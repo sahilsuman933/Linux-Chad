@@ -5,3 +5,4 @@ plugins=(git zsh-syntax-highlighting zsh-autosuggestions zsh-history-substring-s
 source $ZSH/oh-my-zsh.sh
 
 source "$HOME/.config/shell/aliasrc"
+source "$HOME/.zprofile"
