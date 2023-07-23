@@ -1,10 +1,9 @@
+! Removed MOD1Key and Added that key in MOD4 
 
-!
-! Swap Caps_Lock and Control_R
-!
-remove Lock = Caps_Lock
-remove Control = Control_R
-keysym Control_R = Caps_Lock
-keysym Caps_Lock = Control_R
-add Lock = Caps_Lock
-add Control = Control_R
+remove mod1 = Alt_L
+remove mod1 = Alt_R
+remove mod1 = Meta_L
+
+add mod4 = Alt_L 
+add mod4 = Alt_R
+
