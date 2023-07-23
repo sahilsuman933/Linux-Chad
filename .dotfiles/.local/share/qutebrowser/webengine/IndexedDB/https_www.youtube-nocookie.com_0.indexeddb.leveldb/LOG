@@ -1,5 +1,0 @@
-2023/07/09-20:55:13.428 b91 Reusing MANIFEST /home/sahilsuman/.local/share/qutebrowser/webengine/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/09-20:55:46.870 b96 Level-0 table #5: started
-2023/07/09-20:55:46.875 b96 Level-0 table #5: 1167 bytes OK
-2023/07/09-20:55:46.877 b96 Delete type=0 #3
-2023/07/09-20:55:46.878 b96 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
