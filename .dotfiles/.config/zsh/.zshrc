@@ -1,4 +1,3 @@
-export PATH=$PATH:/home/sahilsuman/.local/bin
 export ZSH="$HOME/.config/zsh/.oh-my-zsh"
 ZSH_THEME="alanpeabody"
 
