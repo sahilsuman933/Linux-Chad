@@ -1,9 +1,0 @@
-! Removed MOD1Key and Added that key in MOD4 
-
-remove mod1 = Alt_L
-remove mod1 = Alt_R
-remove mod1 = Meta_L
-
-add mod4 = Alt_L 
-add mod4 = Alt_R
-
