@@ -58,5 +58,6 @@ dwm_bar &
 bg_wall &
 xcompmgr &
 xset r rate 300 50 &
+libinput-gestures-setup start &
 exec dwm > /dev/null 2>&1
 

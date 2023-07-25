@@ -1,0 +1,8 @@
+.cache
+elpa
+transient
+init.el~
+network-security.data
+smex-items
+auto-save-list
+#init.el#
