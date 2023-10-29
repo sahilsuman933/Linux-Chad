@@ -24,9 +24,9 @@ sudo make -C ~/.local/src/dwmblocks install
 
 
 
-# Yay: AUR Repository
-git clone https://aur.archlinux.org/yay.git
-cd yay
+# Paru: AUR Repository
+git clone https://aur.archlinux.org/paru.git
+cd paru
 makepkg -si
 
 
