@@ -1,0 +1,2 @@
+npm init -y
+npm install @stitches/react @types/react @types/react-dom framer-motion next react react-dom typescript
