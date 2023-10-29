@@ -31,7 +31,7 @@ makepkg -si
 
 
 yay -S libxft-bgra-git yt-dlp-drop-in
-mkdir dl dox imp music pix pub code
+mkdir dl dox pix code study
 
 ln -s ~/.config/x11/xinitrc .xinitrc
 ln -s ~/.config/shell/profile .zprofile

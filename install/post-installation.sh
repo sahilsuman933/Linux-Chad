@@ -51,7 +51,8 @@ pacman -S --noconfirm xorg-server xorg-xinit xorg-xkill xorg-xsetroot xorg-xback
      dhcpcd networkmanager wpa_supplicant pamixer mpd ncmpcpp \
      zsh-syntax-highlighting xdg-user-dirs libconfig \
      bluez bluez-utils \
-     intel-ucode nvidia nvidia-utils
+     intel-ucode nvidia nvidia-utils \ 
+     networkmanager-openvpn microsoft-edge-stable-bin google-chrome
 
 rm /bin/sh
 ln -s dash /bin/sh
