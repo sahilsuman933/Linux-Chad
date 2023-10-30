@@ -30,8 +30,12 @@ cd paru
 makepkg -si
 
 
-yay -S libxft-bgra-git yt-dlp-drop-in
+paru -S --noconfirm networkmanager-openvpn microsoft-edge-stable-bin google-chrome github-cli-git libinput-gestures \
+        udisks2 nodejs npm noto-fonts-emoji nerd-fonts ripgrep ttf-nerd-fonts-symbols ttf-jetbrains-mono-nerd \
+        insomnia jdk notion-app docker docker-compose composer
 mkdir dl dox pix code study
+
+
 
 ln -s ~/.config/x11/xinitrc .xinitrc
 ln -s ~/.config/shell/profile .zprofile
